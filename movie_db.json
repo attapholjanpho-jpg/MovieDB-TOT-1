@@ -1,6 +1,5 @@
 {
-    "movie": [
-        {
+    "movie": [{
             "id": "0",
             "movie_name": "Parasite ",
             "director": "Bong Joon-Ho",
@@ -9,15 +8,15 @@
             "description": "Palm d’Or"
         },
         {
-            "id": "M002",
+            "id": "1",
             "movie_name": "The Witches",
-            "director": "Robert Samackis",
-            "artist": "Ann Hattaway",
-            "year": "2019",
+            "director": "โรเบิร์ต เซเม็กคิส",
+            "artist": "แอนน์ แฮททาเวย์",
+            "year": "2020",
             "description": "Comady"
         },
         {
-            "id": "M003",
+            "id": "2",
             "movie_name": "Ghosts of War",
             "director": "Bong Joon-Ho",
             "artist": "Brandton Twest",
