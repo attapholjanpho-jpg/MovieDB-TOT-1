@@ -16,6 +16,14 @@
             "description": "Comady"
         },
         {
+            "id": "19",
+            "movie_name": "Friend Zone",
+            "director": "Chayanop Boonprokob",
+            "artist": "Naphat Siangsomboon",
+            "year": "2019",
+            "description": "Comedies"
+        },
+        {
             "id": "a20",
             "movie_name": "The Avengers",
             "director": "Joss Whedon, ",
