@@ -16,15 +16,24 @@
             "description": "Comady"
         },
         {
-            "id": "2",
-            "movie_name": "Ghosts of War",
-            "director": "Bong Joon-Ho",
-            "artist": "Brandton Twest",
+            "id": "19",
+            "movie_name": "Friend Zone",
+            "director": "Chayanop Boonprokob",
+            "artist": "Naphat Siangsomboon",
             "year": "2019",
-            "description": "Horror"
-         {
+            "description": "Comedies"
+        },
+        {
             "id": "a20",
             "movie_name": "The Avengers",
+            "director": "Joss Whedon, ",
+            "artist": "Joe Russo, Anthony Russo",
+            "year": "2012",
+            "description": "Comady"
+        },
+        {
+            "id": "a21",
+            "movie_name": "The Avengers2",
             "director": "Joss Whedon, ",
             "artist": "Joe Russo, Anthony Russo",
             "year": "2012",
