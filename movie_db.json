@@ -1,12 +1,19 @@
 {
-    "movie": [
-        {
+    "movie": [{
             "id": "0",
             "movie_name": "Parasite ",
             "director": "Bong Joon-Ho",
             "artist": "Jang Hye-Jin",
             "year": "2019",
             "description": "Palm d’Or"
+        },
+        {
+            "id": "1",
+            "movie_name": "The Witches",
+            "director": "โรเบิร์ต เซเม็กคิส",
+            "artist": "แอนน์ แฮททาเวย์",
+            "year": "2020",
+            "description": "Comady"
         }
     ]
 }
