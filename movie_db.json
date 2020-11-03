@@ -39,5 +39,14 @@
             "year": "2012",
             "description": "Comady"
         }
+        ,
+        {
+            "id": "a22",
+            "movie_name": "Star trek Discovery",
+            "director": "J. J. Abrams; ‎Damon Lindelof",
+            "artist": "Sonequa Martin-GreenJoe Russo, Anthony Russo",
+            "year": "2017",
+            "description": "Science fiction"
+        }
     ]
 }
