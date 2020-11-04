@@ -166,6 +166,14 @@
             "artist": "lily collins",
             "year": "2020",
             "description": "American moving to Paris to provide an American point of view in a marketing firm there."
+        },
+        {
+            "id": "22",
+            "movie_name": "paris",
+            "director": "Darren",
+            "artist": "lily collins",
+            "year": "2020",
+            "description": "American moving to Paris to provide an American point of view in a marketing firm there."
         }
         
     ]
