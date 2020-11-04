@@ -78,6 +78,46 @@
             "artist": "Freddie Highmore, Antonia Thomas, Hill Harper",
             "year": "2019",
             "description": " Drama"
+        },
+        {
+            "id": "11",
+            "movie_name": "Bad Benius",
+            "director": "Pat Boonnitipat",
+            "artist": "Plearnpichya Komalarajun",
+            "year": "2020",
+            "description": "Crime TV Dramas"
+        },
+        {
+            "id": "12",
+            "movie_name": "We bare bears",
+            "director": "JDaniel Chong",
+            "artist": "Eric Edelstein,Demetri Martin",
+            "year": "2015",
+            "description": "Kids"
+        },
+        {
+            "id": "13",
+            "movie_name": "Falling In Love",
+            "director": "Roger Kumble",
+            "artist": "Christina Milian, Adam Demos",
+            "year": "2019",
+            "description": "Romantic Movies,Comedies,US Movies"
+        },
+        {
+            "id": "14",
+            "movie_name": "Pets United",
+            "director": "Reinhard Klooss",
+            "artist": "Natalie Dormer",
+            "year": "2020",
+            "description": "Family Comedies,Animal Tales"
+        },
+        {
+            "id": "15",
+            "movie_name": "Alvin and the chipmunks",
+            "director": "Walt Becker",
+            "artist": "Justin Long",
+            "year": "2015",
+            "description": "Kids Music,Family Comedies"
         }
     ]
 }
