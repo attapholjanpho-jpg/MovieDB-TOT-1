@@ -1,6 +1,6 @@
 {
     "movie": [{
-            "id": "0",
+            "id": "1",
             "movie_name": "Parasite ",
             "director": "Bong Joon-Ho",
             "artist": "Jang Hye-Jin",
@@ -8,7 +8,7 @@
             "description": "Palm d’Or"
         },
         {
-            "id": "1",
+            "id": "2",
             "movie_name": "The Witches",
             "director": "โรเบิร์ต เซเม็กคิส",
             "artist": "แอนน์ แฮททาเวย์",
@@ -16,7 +16,7 @@
             "description": "Comady"
         },
         {
-            "id": "19",
+            "id": "3",
             "movie_name": "Friend Zone",
             "director": "Chayanop Boonprokob",
             "artist": "Naphat Siangsomboon",
@@ -24,7 +24,7 @@
             "description": "Comedies"
         },
         {
-            "id": "a20",
+            "id": "4",
             "movie_name": "The Avengers",
             "director": "Joss Whedon, ",
             "artist": "Joe Russo, Anthony Russo",
@@ -32,7 +32,7 @@
             "description": "Comady"
         },
         {
-            "id": "a21",
+            "id": "5",
             "movie_name": "The Avengers2",
             "director": "Joss Whedon, ",
             "artist": "Joe Russo, Anthony Russo",
