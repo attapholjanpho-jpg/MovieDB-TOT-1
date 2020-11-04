@@ -118,6 +118,46 @@
             "artist": "Justin Long",
             "year": "2015",
             "description": "Kids Music,Family Comedies"
+        },
+        {
+            "id": "16",
+            "movie_name": "Harry Potter 1",
+            "director": "",
+            "artist": "Daniel Radcliffe",
+            "year": "2001",
+            "description": "Philosopher's Stone"
+        },
+        {
+            "id": "17",
+            "movie_name": "Harry Potter 2",
+            "director": "",
+            "artist": "Daniel Radcliffe",
+            "year": "2002",
+            "description": "Chamber of Secrets"
+        },
+        {
+            "id": "18",
+            "movie_name": "Harry Potter 3",
+            "director": "",
+            "artist": "Daniel Radcliffe",
+            "year": "2004",
+            "description": "Prisoner of Azkaban"
+        },
+        {
+            "id": "19",
+            "movie_name": "Harry Potter 4",
+            "director": "",
+            "artist": "Daniel Radcliffe",
+            "year": "2005",
+            "description": "Goblet of Fire"
+        },
+        {
+            "id": "20",
+            "movie_name": "Harry Potter 5",
+            "director": "",
+            "artist": "Daniel Radcliffe",
+            "year": "2007",
+            "description": "Order of the Phoenix"
         }
     ]
 }
