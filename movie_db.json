@@ -158,6 +158,15 @@
             "artist": "Daniel Radcliffe",
             "year": "2007",
             "description": "Order of the Phoenix"
+        },
+        {
+            "id": "21",
+            "movie_name": "Emily in the paris",
+            "director": "Darren Star",
+            "artist": "lily collins",
+            "year": "2020",
+            "description": "American moving to Paris to provide an American point of view in a marketing firm there."
         }
+        
     ]
 }
