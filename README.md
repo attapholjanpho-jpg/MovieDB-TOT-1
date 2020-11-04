@@ -30,7 +30,7 @@
 "id": "0", <br>
 "movie_name": "star_wars", <br>
 "movie_genre": "Adventure", <br>
-"Director": "J.J. Abrams", <br>
+"artist": "J.J. Abrams", <br>
 "year": "2020", <br>
 } <br>
 
