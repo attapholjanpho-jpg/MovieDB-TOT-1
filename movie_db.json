@@ -190,6 +190,14 @@
             "artist": "Veronica Hool",
             "year": "2020",
             "description": "Drama"
+        },
+              {
+            "id": "25",
+            "movie_name": "Jumanji: Welcome to the Jungle",
+            "director": "Jake Kasdan",
+            "artist": "Dwayne Johnson",
+            "year": "2017",
+            "description": "fantasy adventure comedy"
         }
     ]
 }
