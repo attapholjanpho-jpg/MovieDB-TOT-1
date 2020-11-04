@@ -40,6 +40,46 @@
             "description": "Comady"
         },
         {
+            "id": "6",
+            "movie_name": "HUMAN CAPITAL (2019)",
+            "director": "Marc Meyers",
+            "artist": "Peter Sarsgaard, Marisa Tomei, Maya Hawke, Liev Schreiber",
+            "year": "2019",
+            "description": " Crime"
+        },
+        {
+            "id": "7",
+            "movie_name": "REPRISAL",
+            "director": "Brian A. Miller",
+            "artist": "Bruce Willis, Frank Grillo, Johnathon Schaech",
+            "year": "2018",
+            "description": "Action"
+        },
+        {
+            "id": "8",
+            "movie_name": "JOHN WICK",
+            "director": "Chad Stahelski",
+            "artist": "Keanu Reeves, Riccardo Scamarcio, Ian McShane",
+            "year": "2017",
+            "description": "Action"
+        },
+        {
+            "id": "9",
+            "movie_name": "RADIOACTIVE",
+            "director": "Marjane Satrapi",
+            "artist": "Rosamund Pike, Yvette Feuer, Mirjam Novak, Ralph Berkin",
+            "year": "2019",
+            "description": " Biography"
+        },
+        {
+            "id": "10",
+            "movie_name": "THE GOOD DOCTOR SS3",
+            "director": "David Shore",
+            "artist": "Freddie Highmore, Antonia Thomas, Hill Harper",
+            "year": "2019",
+            "description": " Drama"
+        },
+        {
             "id": "11",
             "movie_name": "Bad Benius",
             "director": "Pat Boonnitipat",
